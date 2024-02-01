@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.14.2]
 
-### Uncategorized
+### Changed
 
 - update
 - 1.14.1
@@ -48,7 +48,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.14.1]
 
-### Uncategorized
+### Changed
 
 - fixing incorrect storybook build command
 - reverting url changes
@@ -85,7 +85,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.14.0]
 
-### Uncategorized
+### Changed
 
 - Template sync ([#1](https://github.com/MetaMask/design-tokens/pull/1))
 - Update package.json to test publish workflows
