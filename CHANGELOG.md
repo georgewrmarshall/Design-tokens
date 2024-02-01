@@ -7,6 +7,48 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.15.0]
+
+### Changed
+
+- Update
+- update to changelog
+- 1.14.2
+- update
+- 1.14.1
+- fixing incorrect storybook build command
+- reverting url changes
+- Updaing yarn.lock
+- 1.14.0
+- Update package.json to test publish workflows
+- removing instance of unused typedoc from depcheckrc
+- reverting test coverage so it ignores index files and colors.ts
+- adding doc to tsconfig.json
+- updating build-deploy-storybook and yarn.lock file
+- adding incorrectly labelled missing dependencies and unused dependcies to depcheckrc
+- running lint:fix adding fixes to changelog and package.json
+- more lint fixes and ignores
+- auto lint fixes by running lint:fix
+- rmeoving publish-docs workflow and references
+- initial use of npx @metamask/template-sync but removing and adding some missing configurations
+- Revert package version to `0.0.0`
+- Update package name
+- Fix changelog
+- Fix test
+- Fix test
+- Fix tests
+- Fix tests
+- Finalize with colors
+- Merge branch 'main' of https://github.com/MetaMask/metamask-design-tokens into feature/4-setup-ds-repository
+- Reverting changelog
+- Adding brand, light and dark theme token json from Figma Tokens
+- Update readme. Add design token modules.
+- v1.1.0
+- v1.0.0
+- v1.4.0
+- Update package.json
+- Initial commit
+
 ## [1.14.2]
 
 ### Changed
@@ -360,7 +402,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release.
 
-[Unreleased]: https://github.com/MetaMask/design-tokens/compare/v1.14.2...HEAD
+[Unreleased]: https://github.com/MetaMask/design-tokens/compare/v1.15.0...HEAD
+[1.15.0]: https://github.com/MetaMask/design-tokens/compare/v1.14.2...v1.15.0
 [1.14.2]: https://github.com/MetaMask/design-tokens/compare/v1.14.1...v1.14.2
 [1.14.1]: https://github.com/MetaMask/design-tokens/compare/v1.14.0...v1.14.1
 [1.14.0]: https://github.com/MetaMask/design-tokens/compare/v1.13.0...v1.14.0
